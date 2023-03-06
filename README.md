@@ -5,4 +5,4 @@ This project is a visualization of batch processing in an operating system. Batc
 The best way to understand the concepts of an Operating System is to build an operating system and then to experiment with it. This OS will be a SIMULATION only. In this project, we were asked to build a simulation of a multi-programming batch system using **JAVA**.
 
 ## Note
-This is a university (GUC) course project. Course name is (CSEN 602 : Operating Systems). For a detailed description of the project and its requirements, please have a look at the [description](description) folder.
+This is a university (GUC) course project. Course name is (CSEN 602 : Operating Systems). For a detailed description of the project and its requirements, please have a look at the [description](Description) folder.
